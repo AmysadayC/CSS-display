@@ -16,4 +16,10 @@ body {
 
 .container {
     background-color: beige;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: start;
+    flex-wrap: wrap; 
 }
